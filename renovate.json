@@ -10,7 +10,7 @@
       "groupName": [
       "angular packages"
       ],
-    "excludedPackageNames": "foo"
+      "excludedPackageNames": "foo"
     }
   ],
   "devDependencies": {
